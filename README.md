@@ -6,7 +6,7 @@
 
 ###
 
-<h1 align="center">WEB</h1>
+<h1 align="center">ViBE CODING</h1>
 
 ###
 
